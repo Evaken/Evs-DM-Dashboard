@@ -1,0 +1,13 @@
+{
+  "name": "Ev's DM Dashboard",
+  "short_name": "DM Dashboard",
+  "description": "D&D 5e compendium, spells & dice for players at the table",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0ede4",
+  "theme_color": "#ab2b2b",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
